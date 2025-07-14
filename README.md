@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
-
+<center>
 <h3 align="left">My GitHub Stats:</h3>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
   <a href="#">
@@ -83,13 +83,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshbharambe45&" alt="GitHub Streak" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </div>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/buymeacoffee.com/Mahesh_Bharambe"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me" />
-  </a>
-</p>
+</center>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
