@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh_Bharambe</h1>
-<h3 align="center">Livin’ a little. Aim the impossible 🥷</h3>
+<h3 align="center">Aim the impossible 🥷</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maheshbharambe45&label=Profile%20views&color=0e75b6&style=flat" alt="maheshbharambe45" />
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Mahesh_b](https://linktr.ee/Mahesh_b)  
 - 📫 How to reach me **bharambemahesh7@gmail.com**  
-- ⚡ Fun fact **Problem Solver 😎**  
+- ⚡ Fun fact **DevOps Engineer 😎**  
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align: center;">
