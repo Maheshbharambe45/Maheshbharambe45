@@ -68,9 +68,23 @@
 <h3 align="center">📈 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshbharambe45&show_icons=true&locale=en" alt="GitHub Stats" height="145"/> &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshbharambe45" alt="GitHub Streak" height="145"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshbharambe45&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="145"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maheshbharambe45&show_icons=true&locale=en"
+    alt="GitHub Stats"
+    height="145"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com?user=maheshbharambe45"
+    alt="GitHub Streak"
+    height="145"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshbharambe45&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+    height="145"
+  />
 </p>
 
 ---
