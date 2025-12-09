@@ -8,7 +8,7 @@
 ---
 
 - 📫 How to reach me **bharambemahesh7@gmail.com**  
-- ⚡ Fun fact **DevOps Engineer 😎**
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Fun fact **DevOps Engineer 😎**
 
 ---
 
