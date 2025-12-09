@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Bharambe</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Mahesh Bharambe</h1>
 <h3 align="center">Aim the impossible 🥷</h3>
 
 <p align="center">
